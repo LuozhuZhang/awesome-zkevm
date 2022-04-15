@@ -26,6 +26,8 @@
 
 * [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt) - Scroll zkEVM
 
+* [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware) - Hardware for ZKPs
+
 #### Zero-Knowledge-Proofs 
 
 * [Awesome-zkps](https://github.com/gakonst/awesome-starknet) - A curated list of zkps
