@@ -32,6 +32,8 @@
 
 * [Awesome-zkps](https://github.com/gakonst/awesome-starknet) - A curated list of zkps
 
+* [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - zkSNARK Principle introduction
+
 
 ## Different Solutions
 
