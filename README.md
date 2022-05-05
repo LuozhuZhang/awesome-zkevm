@@ -26,6 +26,10 @@
 
 * [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design
 
+### zkSync
+
+* [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler
+
 ### StarkWare
 
 * [Awesome-starknet](https://github.com/gakonst/awesome-starknet) - A curated list of starkNet resources
