@@ -9,11 +9,11 @@
     <a href="https://github.com/hedgezhu/Awesome-zkEVM/graphs/contributors">
       <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hedgezhu/Awesome-zkEVM">
     </a>
-    <a href="https://twitter.com/LuozhuZhang">
-      <img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/LuozhuZhang.svg?style=social&label=Follow%20%40LuozhuZhang">
-    </a>
     <a href="http://makeapullrequest.com">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+    </a>
+    <a href="https://twitter.com/LuozhuZhang">
+      <img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/LuozhuZhang.svg?style=social&label=Follow%20%40LuozhuZhang">
     </a>
   </p>
 </div>
