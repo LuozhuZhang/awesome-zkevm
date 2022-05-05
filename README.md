@@ -20,17 +20,32 @@
 
 ## Resources
 
-#### Article
+### Scroll and Applied zkp
+
+* [zkEVM-circuit](https://github.com/appliedzkp/https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement
+
+* [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design
+
+### Zero-Knowledge-Proofs 
+
+* [Awesome-zkps](https://github.com/gakonst/awesome-starknet) - A curated list of zkps
+
+
+## Article
+
+### zkEVM
 
 * [EF-Supported Teams: Research & Development Update](https://blog.ethereum.org/2020/12/09/ef-supported-teams-research-and-development-update-2020-pt-2/) - EF-Supported Applied ZKP
 
 * [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt) - Scroll zkEVM
 
+### zk-hardware
+
 * [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware) - Hardware for ZKPs
 
 #### Zero-Knowledge-Proofs 
 
-* [Awesome-zkps](https://github.com/gakonst/awesome-starknet) - A curated list of zkps
+* [Decentralized Speed: Advances in Zero Knowledge Proofs](https://a16z.com/2022/04/15/zero-knowledge-proofs-hardware-decentralization-innovation/) - A16z, some zkps history
 
 * [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - zkSNARK Principle introduction
 
