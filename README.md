@@ -1,16 +1,16 @@
 <div align="center">
-  <a href="https://liamcobb.com/">
-    <img alt="eth logo" src="https://freight.cargo.site/t/original/i/eff4754f41bf1c42c9a08a9feb796f1db764359a7a54db95f135321044c87343/GRO-Market-colour-new-lo-RGB.jpg" >
+  <a href="https://www.artstation.com/artwork/9mEx8a/">
+    <img alt="zkevm" src="https://cdna.artstation.com/p/assets/images/images/029/062/442/4k/t-x-7.jpg?1596346307" >
   </a>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
-      <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+      <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
     </a>
     <a href="https://github.com/hedgezhu/Awesome-zkEVM/graphs/contributors">
       <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hedgezhu/Awesome-zkEVM">
     </a>
-    <a href="https://www.typescriptlang.org/">
-      <img alt="TS" src="https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff">
+    <a href="https://twitter.com/LuozhuZhang">
+      <img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/LuozhuZhang.svg?style=social&label=Follow%20%40LuozhuZhang">
     </a>
     <a href="http://makeapullrequest.com">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
