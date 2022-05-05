@@ -46,6 +46,8 @@
 
 * [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt) - Scroll zkEVM
 
+* [An article to understand zkEVM, the key to Ethereum scaling](https://medium.com/degate/an-article-to-understand-zkevm-the-key-to-ethereum-scaling-ff0d83c417cc) - Articles recommended by the zksync community to understand zkevm
+
 ### zk-hardware
 
 * [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware) - Hardware for ZKPs
