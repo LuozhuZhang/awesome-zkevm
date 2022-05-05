@@ -26,10 +26,13 @@
 
 * [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design
 
+### StarkWare
+
+* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) - A curated list of starkNet resources
+
 ### Zero-Knowledge-Proofs 
 
-* [Awesome-zkps](https://github.com/gakonst/awesome-starknet) - A curated list of zkps
-
+* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of zkps resources
 
 ## Article
 
