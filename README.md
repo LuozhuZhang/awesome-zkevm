@@ -20,6 +20,12 @@
 
 ## Resources
 
+### Rollup
+
+* [idn3 rollup](https://github.com/iden3/rollup) - iden3 rollup implement
+
+* [barryWhiteHat rollup](https://github.com/barryWhiteHat/roll_up) - First rollup implemented by @barryWhiteHat
+
 ### Scroll and Applied zkp
 
 * [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement
@@ -30,7 +36,11 @@
 
 ### zkSync
 
+* [zksync v1](https://github.com/matter-labs/zksync) - zksync v1 source code
+
 * [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler
+
+* []
 
 ### StarkWare
 
@@ -41,6 +51,14 @@
 * [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of zkps resources
 
 ## Article
+
+### Rollup
+
+* [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html) - vitalik, Introducing Rollup
+
+* [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698) - vitalik, rollup-centric ethereum roadmap
+
+* [How Zk-Rollups Work](https://medium.com/fcats-blockchain-incubator/how-zk-rollups-work-8ac4d7155b0e) - How barry whiteHat's rollup works
 
 ### zkEVM
 
@@ -60,6 +78,19 @@
 
 * [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - zkSNARK Principle introduction
 
+* [Zk-SNARKs: Under the Hood](https://vitalik.ca/general/2017/02/01/zk_snarks.html) - vitalik, zk-snark part 1
+
+* [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html) - vitalik, zk-snark part 2
+
+* [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) - vitalik, zk-snark part 3
+
+* [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html) - vitalik, Introducing trusted setup
+
+* [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html) - vitalik, zk-stark part 1
+
+* [STARKs, Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html) - vitalik, zk-stark part 2
+
+* [STARKs, Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html) - vitalik, zk-stark part 3
 
 ## Different Solutions
 
