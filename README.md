@@ -24,7 +24,7 @@
 
 * [idn3 rollup](https://github.com/iden3/rollup) - iden3 rollup implement
 
-* [barryWhiteHat rollup](https://github.com/barryWhiteHat/roll_up) - First rollup implemented by @barryWhiteHat
+* [barryWhiteHat rollup](https://github.com/barryWhiteHat/roll_up) - First rollup implemented by [barryWhiteHat](https://github.com/barryWhiteHat)
 
 ### Scroll and Applied zkp
 
@@ -40,7 +40,7 @@
 
 * [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler
 
-* []
+* [zksync v2 portal](https://portal.zksync.io/) - zksync v2 faucet, Goerli network
 
 ### StarkWare
 
