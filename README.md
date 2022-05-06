@@ -26,6 +26,8 @@
 
 * [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design
 
+* [appliedzkp zkEVM document](https://appliedzkp.github.io/zkevm-docs/) - appliedzkp zkEVM (Community Edition) Documentation
+
 ### zkSync
 
 * [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler
