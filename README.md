@@ -62,7 +62,7 @@
 * [STARKs, Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html) - vitalik, zk-stark part 3
 
 
-## Resources
+## Resources - libraries, tools
 
 ### Rollup
 
