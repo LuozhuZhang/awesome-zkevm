@@ -18,37 +18,6 @@
   </p>
 </div>
 
-## Resources
-
-### Rollup
-
-* [idn3 rollup](https://github.com/iden3/rollup) - iden3 rollup implement
-
-* [barryWhiteHat rollup](https://github.com/barryWhiteHat/roll_up) - First rollup implemented by [barryWhiteHat](https://github.com/barryWhiteHat)
-
-### Scroll and Applied zkp
-
-* [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement
-
-* [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design
-
-* [appliedzkp zkEVM document](https://appliedzkp.github.io/zkevm-docs/) - appliedzkp zkEVM (Community Edition) Documentation
-
-### zkSync
-
-* [zksync v1](https://github.com/matter-labs/zksync) - zksync v1 source code
-
-* [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler
-
-* [zksync v2 portal](https://portal.zksync.io/) - zksync v2 faucet, Goerli network
-
-### StarkWare
-
-* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) - A curated list of starkNet resources
-
-### Zero-Knowledge-Proofs 
-
-* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of zkps resources
 
 ## Article
 
@@ -91,6 +60,48 @@
 * [STARKs, Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html) - vitalik, zk-stark part 2
 
 * [STARKs, Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html) - vitalik, zk-stark part 3
+
+
+## Resources
+
+### Rollup
+
+* [idn3 rollup](https://github.com/iden3/rollup) - iden3 rollup implement
+
+* [barryWhiteHat rollup](https://github.com/barryWhiteHat/roll_up) - First rollup implemented by [barryWhiteHat](https://github.com/barryWhiteHat)
+
+### Scroll and Applied zkp
+
+* [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement
+
+* [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design
+
+* [appliedzkp zkEVM document](https://appliedzkp.github.io/zkevm-docs/) - appliedzkp zkEVM (Community Edition) Documentation
+
+### zkSync
+
+* [zksync v1](https://github.com/matter-labs/zksync) - zksync v1 source code
+
+* [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler
+
+* [zksync v2 portal](https://portal.zksync.io/) - zksync v2 faucet, Goerli network
+
+### StarkWare
+
+* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) - A curated list of starkNet resources
+
+### Zero-Knowledge-Proofs 
+
+* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of zkps resources
+
+* [iden3/snarkjs](https://github.com/iden3/snarkjs) - zkSNARK implementation in JavaScript & WASM
+
+### Circuit
+
+* [iden3/circom](https://github.com/iden3/circom) - zkSnark circuit compiler
+
+* [iden3/circomlib](https://github.com/iden3/circomlib) - basic circuits for circom
+
 
 ## Different Solutions
 
