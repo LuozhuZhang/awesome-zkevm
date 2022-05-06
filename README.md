@@ -22,7 +22,7 @@
 
 ### Scroll and Applied zkp
 
-* [zkEVM-circuit](https://github.com/appliedzkp/https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement
+* [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement
 
 * [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design
 
