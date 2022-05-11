@@ -43,6 +43,8 @@
 
 ### Zero-Knowledge-Proofs 
 
+* [The development of practical zk-proving systems](https://twitter.com/SrikarVaradaraj/status/1521188996147290117?s=20&t=5HS32nhuL3wa7nYCUO6GKA) - The history of zk-proving system
+
 * [Decentralized Speed: Advances in Zero Knowledge Proofs](https://a16z.com/2022/04/15/zero-knowledge-proofs-hardware-decentralization-innovation/) - A16z, some zkps history
 
 * [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - zkSNARK Principle introduction
