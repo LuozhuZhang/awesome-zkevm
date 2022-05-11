@@ -41,7 +41,7 @@
 
 * [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware) - Hardware for ZKPs
 
-#### Zero-Knowledge-Proofs 
+### Zero-Knowledge-Proofs 
 
 * [Decentralized Speed: Advances in Zero Knowledge Proofs](https://a16z.com/2022/04/15/zero-knowledge-proofs-hardware-decentralization-innovation/) - A16z, some zkps history
 
