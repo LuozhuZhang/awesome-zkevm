@@ -49,6 +49,8 @@
 
 * [Decentralized Speed: Advances in Zero Knowledge Proofs](https://a16z.com/2022/04/15/zero-knowledge-proofs-hardware-decentralization-innovation/) - A16z, some zkps history
 
+* [zku.ONE](https://zku.one/course-schedule) - zero-knowledge proof university organized by harmony
+
 * [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - zkSNARK Principle introduction
 
 * [Zk-SNARKs: Under the Hood](https://vitalik.ca/general/2017/02/01/zk_snarks.html) - vitalik, zk-snark part 1
