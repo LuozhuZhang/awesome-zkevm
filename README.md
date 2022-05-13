@@ -47,6 +47,8 @@
 
 * [Introduction to zk-SNARKs with Examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - Get started to learn zk-SNARK by example
 
+* [Why and How zk-SNARK Works](https://medium.com/@imolfar/why-and-how-zk-snark-works-1-introduction-the-medium-of-a-proof-d946e931160) - In-depth SNARK mechanism and understanding
+
 * [Decentralized Speed: Advances in Zero Knowledge Proofs](https://a16z.com/2022/04/15/zero-knowledge-proofs-hardware-decentralization-innovation/) - A16z, some zkps history
 
 * [zku.ONE](https://zku.one/course-schedule) - zero-knowledge proof university organized by harmony
