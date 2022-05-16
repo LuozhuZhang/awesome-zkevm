@@ -69,7 +69,6 @@
 
 * [STARKs, Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html) - vitalik, zk-stark part 3
 
-
 ## Resources - libraries, tools
 
 ### Rollup
@@ -109,6 +108,10 @@
 * [iden3/circom](https://github.com/iden3/circom) - zkSnark circuit compiler
 
 * [iden3/circomlib](https://github.com/iden3/circomlib) - basic circuits for circom
+
+### Proof system
+
+* [Halo2 Doc](https://zcash.github.io/halo2/) - Halo2 document
 
 
 ## Different Solutions
