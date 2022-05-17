@@ -85,7 +85,9 @@
 
 * [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design
 
-* [appliedzkp zkEVM document](https://appliedzkp.github.io/zkevm-docs/) - appliedzkp zkEVM (Community Edition) Documentation
+* [zkEVM-document](https://appliedzkp.github.io/zkevm-docs/) - appliedzkp zkEVM (Community Edition) Documentation
+
+* [zkEVM-chain](https://github.com/appliedzkp/zkevm-chain) - appliedzkp L1 contract
 
 ### zkSync
 
