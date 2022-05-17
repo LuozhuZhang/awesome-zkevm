@@ -37,6 +37,8 @@
 
 * [An article to understand zkEVM, the key to Ethereum scaling](https://medium.com/degate/an-article-to-understand-zkevm-the-key-to-ethereum-scaling-ff0d83c417cc) - Articles recommended by the zksync community to understand zkevm
 
+* [ZKVerse: Deep Dive Into Polygon Hermez 2.0](https://blog.polygon.technology/zkverse-deep-dive-into-polygon-hermez-2-0/) - Deep into zkEVM of polygon hermez
+
 ### zk-hardware
 
 * [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware) - Hardware for ZKPs
