@@ -79,7 +79,7 @@
 
 * [barryWhiteHat rollup](https://github.com/barryWhiteHat/roll_up) - First rollup implemented by [barryWhiteHat](https://github.com/barryWhiteHat)
 
-### Scroll and Applied zkp
+### Scroll and Appliedzkp(PSE)
 
 * [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement
 
