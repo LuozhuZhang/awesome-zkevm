@@ -63,7 +63,7 @@
 
 * [Sin7Y, Halo Principle Explained](https://sin7y.org/halo-principle-explained-fa5a2e2767cd)
 
-* [Sin7Y, Sin7Y Tech Review: Develop Circuits Using Halo 2]([https://sin7y.org/halo-principle-explained-fa5a2e2767cd](https://sin7y.org/sin7y-tech-review-develop-circuits-using-halo-2-829e2f26856))
+* [Sin7Y, Sin7Y Tech Review: Develop Circuits Using Halo 2](https://sin7y.org/sin7y-tech-review-develop-circuits-using-halo-2-829e2f26856))
 
 ## Resources - libraries, tools
 
