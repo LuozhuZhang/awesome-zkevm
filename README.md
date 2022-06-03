@@ -19,7 +19,7 @@
 </div>
 
 
-## Article
+## Article - Video
 
 ### Rollup
 
@@ -30,8 +30,6 @@
 * [How Zk-Rollups Work](https://medium.com/fcats-blockchain-incubator/how-zk-rollups-work-8ac4d7155b0e) - How barry whiteHat's rollup works
 
 ### zkEVM
-
-* [EF-Supported Teams: Research & Development Update](https://blog.ethereum.org/2020/12/09/ef-supported-teams-research-and-development-update-2020-pt-2/) - EF-Supported Applied ZKP
 
 * [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt) - Scroll zkEVM
 
@@ -45,37 +43,31 @@
 
 ### Zero-Knowledge-Proofs 
 
-#### Plonk
-
-* [The development of practical zk-proving systems](https://twitter.com/SrikarVaradaraj/status/1521188996147290117?s=20&t=5HS32nhuL3wa7nYCUO6GKA) - The history of zk-proving system
+#### zk-SNARK
 
 * [Introduction to zk-SNARKs with Examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - Get started to learn zk-SNARK by example
 
 * [Why and How zk-SNARK Works](https://medium.com/@imolfar/why-and-how-zk-snark-works-1-introduction-the-medium-of-a-proof-d946e931160) - In-depth SNARK mechanism and understanding
 
-* [Decentralized Speed: Advances in Zero Knowledge Proofs](https://a16z.com/2022/04/15/zero-knowledge-proofs-hardware-decentralization-innovation/) - A16z, some zkps history
+#### Plonk
 
-* [zku.ONE](https://zku.one/course-schedule) - zero-knowledge proof university organized by harmony
+* [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
 
-* [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - zkSNARK Principle introduction
+* [ZK Study Club - Plonk with Zac Williamson](https://www.youtube.com/watch?v=NqrVcDuQ8hM)
 
-* [Zk-SNARKs: Under the Hood](https://vitalik.ca/general/2017/02/01/zk_snarks.html) - vitalik, zk-snark part 1
+* [Multiset checks in PLONK and Plookup](https://hackmd.io/@arielg/ByFgSDA7D)
 
-* [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html) - vitalik, zk-snark part 2
+#### Halo2
 
-* [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html) - vitalik, zk-snark part 3
+* [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
 
-* [How do trusted setups work?](https://vitalik.ca/general/2022/03/14/trustedsetup.html) - vitalik, Introducing trusted setup
+* [Sin7Y, Halo Principle Explained](https://sin7y.org/halo-principle-explained-fa5a2e2767cd)
 
-* [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html) - vitalik, zk-stark part 1
-
-* [STARKs, Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html) - vitalik, zk-stark part 2
-
-* [STARKs, Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html) - vitalik, zk-stark part 3
+* [Sin7Y, Sin7Y Tech Review: Develop Circuits Using Halo 2]([https://sin7y.org/halo-principle-explained-fa5a2e2767cd](https://sin7y.org/sin7y-tech-review-develop-circuits-using-halo-2-829e2f26856))
 
 ## Resources - libraries, tools
 
-### Rollup
+### Early Rollup
 
 * [idn3 rollup](https://github.com/iden3/rollup) - iden3 rollup implement
 
@@ -107,24 +99,18 @@
 
 * [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of zkps resources
 
-* [iden3/snarkjs](https://github.com/iden3/snarkjs) - zkSNARK implementation in JavaScript & WASM
+### Halo2
 
-### Circuit
+* [Halo2 repo](https://github.com/zcash/halo2)
 
-* [iden3/circom](https://github.com/iden3/circom) - zkSnark circuit compiler
-
-* [iden3/circomlib](https://github.com/iden3/circomlib) - basic circuits for circom
-
-### Proof system
-
-* [Halo2 Doc](https://zcash.github.io/halo2/) - Halo2 document
+* [Halo2 document](https://zcash.github.io/halo2/)
 
 
 ## Different Solutions
 
 #### Native zkEVM
 
-* Applied ZKP: https://github.com/appliedzkp
+* Appliedzkp(PSE): https://github.com/appliedzkp
 
 * Scroll: https://scroll.io/
 
