@@ -1,6 +1,6 @@
 # Awesome zkEVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome zkEVM resources, libraries, tools and more.
+zkEVM is a Fully EVM compatible and zk friendly virtual machine.
 
 <div align="center">
   <a href="https://www.artstation.com/artwork/9mEx8a/">
