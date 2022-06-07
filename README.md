@@ -24,7 +24,28 @@ A curated list of awesome zkEVM resources, libraries, tools and more
 
 ## Contents
 
-
+- [Awesome zkEVM ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-zkevm-)
+  - [Contents](#contents)
+  - [Article - Video](#article---video)
+    - [Rollup](#rollup)
+    - [zkEVM](#zkevm)
+    - [zk-hardware](#zk-hardware)
+    - [Zero-Knowledge-Proofs](#zero-knowledge-proofs)
+      - [zk-SNARK](#zk-snark)
+      - [Plonk](#plonk)
+      - [Halo2](#halo2)
+  - [Resources - libraries, tools](#resources---libraries-tools)
+    - [Early Rollup](#early-rollup)
+    - [Scroll and Appliedzkp(PSE)](#scroll-and-appliedzkppse)
+    - [zkSync](#zksync)
+    - [StarkWare](#starkware)
+    - [Zero-Knowledge-Proofs](#zero-knowledge-proofs-1)
+    - [Halo2](#halo2-1)
+  - [Different Solutions](#different-solutions)
+      - [Native zkEVM](#native-zkevm)
+      - [Compiler-Based zkEVM](#compiler-based-zkevm)
+      - [Transpiler-Based zkEVM](#transpiler-based-zkevm)
+      - [Other](#other)
 
 ## Article - Video
 
