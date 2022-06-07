@@ -24,7 +24,7 @@ zkEVM is a Fully EVM compatible and zk friendly virtual machine.
 
 ## Contents
 
-- [Awesome zkEVM ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-zkevm-)
+- [Awesome zkEVM](#awesome-zkevm-)
   - [Contents](#contents)
   - [Article - Video](#article---video)
     - [Rollup](#rollup)
