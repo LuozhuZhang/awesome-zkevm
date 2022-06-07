@@ -24,7 +24,7 @@ A curated list of awesome zkEVM resources, libraries, tools and more
 
 ## Contents
 
-- [Awesome zkEVM ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-zkevm-)
+- [Awesome zkEVM ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-zkevm)
   - [Contents](#contents)
   - [Article - Video](#article---video)
     - [Rollup](#rollup)
