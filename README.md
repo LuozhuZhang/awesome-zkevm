@@ -1,3 +1,7 @@
+# Awesome zkEVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome zkEVM resources, libraries, tools and more
+
 <div align="center">
   <a href="https://www.artstation.com/artwork/9mEx8a/">
     <img alt="zkevm" src="https://cdna.artstation.com/p/assets/images/images/029/062/442/4k/t-x-7.jpg?1596346307" >
@@ -17,6 +21,9 @@
     </a>
   </p>
 </div>
+
+## Contents
+
 
 
 ## Article - Video
