@@ -24,27 +24,29 @@ zkEVM is a Fully EVM compatible and zk friendly virtual machine.
 
 ## Contents
 
-- [Contents](#contents)
-- [Article - Video](#article---video)
-  - [Rollup](#rollup)
-  - [zkEVM](#zkevm)
-  - [zk-hardware](#zk-hardware)
-  - [Zero-Knowledge-Proofs](#zero-knowledge-proofs)
-    - [zk-SNARK](#zk-snark)
-    - [Plonk](#plonk)
-    - [Halo2](#halo2)
-- [Resources - libraries, tools](#resources---libraries-tools)
-  - [Early Rollup](#early-rollup)
-  - [Scroll and Appliedzkp(PSE)](#scroll-and-appliedzkppse)
-  - [zkSync](#zksync)
-  - [StarkWare](#starkware)
-  - [Zero-Knowledge-Proofs](#zero-knowledge-proofs-1)
-  - [Halo2](#halo2-1)
-- [Different Solutions](#different-solutions)
-    - [Native zkEVM](#native-zkevm)
-    - [Compiler-Based zkEVM](#compiler-based-zkevm)
-    - [Transpiler-Based zkEVM](#transpiler-based-zkevm)
-    - [Other](#other)
+- [Awesome zkEVM ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-zkevm-)
+  - [Contents](#contents)
+  - [Article - Video](#article---video)
+    - [Rollup](#rollup)
+    - [zkEVM](#zkevm)
+    - [zk-hardware](#zk-hardware)
+    - [Zero-Knowledge-Proofs](#zero-knowledge-proofs)
+      - [zk-SNARK](#zk-snark)
+      - [Plonk](#plonk)
+      - [Halo2](#halo2)
+  - [Resources - libraries, tools](#resources---libraries-tools)
+    - [Early Rollup](#early-rollup)
+    - [Scroll and Appliedzkp(PSE)](#scroll-and-appliedzkppse)
+    - [zkSync](#zksync)
+    - [StarkWare](#starkware)
+    - [Zero-Knowledge-Proofs](#zero-knowledge-proofs-1)
+    - [Halo2](#halo2-1)
+  - [Different Solutions](#different-solutions)
+      - [Native zkEVM](#native-zkevm)
+      - [Compiler-Based zkEVM](#compiler-based-zkevm)
+      - [Transpiler-Based zkEVM](#transpiler-based-zkevm)
+      - [Other](#other)
+- [Contributing](#contributing)
 
 ## Article - Video
 
@@ -156,3 +158,9 @@ zkEVM is a Fully EVM compatible and zk friendly virtual machine.
 #### Other
 
 * [Consensys](https://ethresear.ch/t/a-zk-evm-specification/11549)
+
+# Contributing
+
+Contributions are very welcome!
+
+Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) for guidelines.
