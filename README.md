@@ -163,4 +163,4 @@ zkEVM is a Fully EVM compatible and zk friendly virtual machine.
 
 Contributions are very welcome!
 
-Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) for guidelines.
+Please have a look at [contributing.md](https://github.com/LuozhuZhang/awesome-zkevm/blob/main/contributing.md) for guidelines.
