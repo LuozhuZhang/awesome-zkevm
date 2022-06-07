@@ -114,7 +114,7 @@
 
 * Scroll: https://scroll.io/
 
-* Polygon Hermez: https://docs.hermez.io/zkEVM/architecture/introduction/
+* Polygon Hermez: https://docs.hermez.io/zkEVM/overview/
 
 #### Compiler-Based zkEVM
 
