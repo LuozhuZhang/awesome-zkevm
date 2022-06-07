@@ -1,6 +1,6 @@
 # Awesome zkEVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome zkEVM resources, libraries, tools and more
+A curated list of awesome zkEVM resources, libraries, tools and more.
 
 <div align="center">
   <a href="https://www.artstation.com/artwork/9mEx8a/">
@@ -50,31 +50,31 @@ A curated list of awesome zkEVM resources, libraries, tools and more
 
 ### Rollup
 
-* [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html) - vitalik, Introducing Rollup
+* [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html) - vitalik, Introducing Rollup.
 
-* [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698) - vitalik, rollup-centric ethereum roadmap
+* [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698) - vitalik, rollup-centric ethereum roadmap.
 
-* [How Zk-Rollups Work](https://medium.com/fcats-blockchain-incubator/how-zk-rollups-work-8ac4d7155b0e) - How barry whiteHat's rollup works
+* [How Zk-Rollups Work](https://medium.com/fcats-blockchain-incubator/how-zk-rollups-work-8ac4d7155b0e) - How barry whiteHat's rollup works.
 
 ### zkEVM
 
-* [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt) - Scroll zkEVM
+* [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt) - Scroll zkEVM.
 
-* [An article to understand zkEVM, the key to Ethereum scaling](https://medium.com/degate/an-article-to-understand-zkevm-the-key-to-ethereum-scaling-ff0d83c417cc) - Articles recommended by the zksync community to understand zkevm
+* [An article to understand zkEVM, the key to Ethereum scaling](https://medium.com/degate/an-article-to-understand-zkevm-the-key-to-ethereum-scaling-ff0d83c417cc) - Articles recommended by the zksync community to understand zkevm.
 
-* [ZKVerse: Deep Dive Into Polygon Hermez 2.0](https://blog.polygon.technology/zkverse-deep-dive-into-polygon-hermez-2-0/) - Deep into zkEVM of polygon hermez
+* [ZKVerse: Deep Dive Into Polygon Hermez 2.0](https://blog.polygon.technology/zkverse-deep-dive-into-polygon-hermez-2-0/) - Deep into zkEVM of polygon hermez.
 
 ### zk-hardware
 
-* [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware) - Hardware for ZKPs
+* [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware) - Hardware for ZKPs.
 
 ### Zero-Knowledge-Proofs 
 
 #### zk-SNARK
 
-* [Introduction to zk-SNARKs with Examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - Get started to learn zk-SNARK by example
+* [Introduction to zk-SNARKs with Examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - Get started to learn zk-SNARK by example.
 
-* [Why and How zk-SNARK Works](https://medium.com/@imolfar/why-and-how-zk-snark-works-1-introduction-the-medium-of-a-proof-d946e931160) - In-depth SNARK mechanism and understanding
+* [Why and How zk-SNARK Works](https://medium.com/@imolfar/why-and-how-zk-snark-works-1-introduction-the-medium-of-a-proof-d946e931160) - In-depth SNARK mechanism and understanding.
 
 #### Plonk
 
@@ -90,41 +90,41 @@ A curated list of awesome zkEVM resources, libraries, tools and more
 
 * [Sin7Y, Halo Principle Explained](https://sin7y.org/halo-principle-explained-fa5a2e2767cd)
 
-* [Sin7Y, Sin7Y Tech Review: Develop Circuits Using Halo 2](https://sin7y.org/sin7y-tech-review-develop-circuits-using-halo-2-829e2f26856))
+* [Sin7Y, Sin7Y Tech Review: Develop Circuits Using Halo 2](https://sin7y.org/sin7y-tech-review-develop-circuits-using-halo-2-829e2f26856)
 
 ## Resources - libraries, tools
 
 ### Early Rollup
 
-* [idn3 rollup](https://github.com/iden3/rollup) - iden3 rollup implement
+* [idn3 rollup](https://github.com/iden3/rollup) - iden3 rollup implement.
 
-* [barryWhiteHat rollup](https://github.com/barryWhiteHat/roll_up) - First rollup implemented by [barryWhiteHat](https://github.com/barryWhiteHat)
+* [barryWhiteHat rollup](https://github.com/barryWhiteHat/roll_up) - First rollup implemented by [barryWhiteHat](https://github.com/barryWhiteHat).
 
 ### Scroll and Appliedzkp(PSE)
 
-* [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement
+* [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement.
 
-* [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design
+* [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design.
 
-* [zkEVM-document](https://appliedzkp.github.io/zkevm-docs/) - appliedzkp zkEVM (Community Edition) Documentation
+* [zkEVM-document](https://appliedzkp.github.io/zkevm-docs/) - appliedzkp zkEVM (Community Edition) Documentation.
 
-* [zkEVM-chain](https://github.com/appliedzkp/zkevm-chain) - appliedzkp L1 contract
+* [zkEVM-chain](https://github.com/appliedzkp/zkevm-chain) - appliedzkp L1 contract.
 
 ### zkSync
 
-* [zksync v1](https://github.com/matter-labs/zksync) - zksync v1 source code
+* [zksync v1](https://github.com/matter-labs/zksync) - zksync v1 source code.
 
-* [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler
+* [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler.
 
-* [zksync v2 portal](https://portal.zksync.io/) - zksync v2 faucet, Goerli network
+* [zksync v2 portal](https://portal.zksync.io/) - zksync v2 faucet, Goerli network.
 
 ### StarkWare
 
-* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) - A curated list of starkNet resources
+* [Awesome-starknet](https://github.com/gakonst/awesome-starknet) - A curated list of starkNet resources.
 
 ### Zero-Knowledge-Proofs 
 
-* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of zkps resources
+* [Awesome-zkps](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of zkps resources.
 
 ### Halo2
 
@@ -137,22 +137,22 @@ A curated list of awesome zkEVM resources, libraries, tools and more
 
 #### Native zkEVM
 
-* Appliedzkp(PSE): https://github.com/appliedzkp
+* [Appliedzkp(PSE)](https://github.com/appliedzkp)
 
-* Scroll: https://scroll.io/
+* [Scroll](https://scroll.io/)
 
-* Polygon Hermez: https://docs.hermez.io/zkEVM/overview/
+* [Polygon Hermez](https://docs.hermez.io/zkEVM/overview/)
 
 #### Compiler-Based zkEVM
 
-* zkSync v2: https://blog.matter-labs.io/zksync-2-0-public-testnet-is-live-de870ba9632a
+* [zkSync v2](https://blog.matter-labs.io/zksync-2-0-public-testnet-is-live-de870ba9632a)
 
 #### Transpiler-Based zkEVM
 
-* StarkNet: https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc
+* [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
 
-* Miden: https://github.com/maticnetwork/miden
+* [Miden](https://github.com/maticnetwork/miden)
 
 #### Other
 
-* Consensys: https://ethresear.ch/t/a-zk-evm-specification/11549
+* [Consensys](https://ethresear.ch/t/a-zk-evm-specification/11549)
