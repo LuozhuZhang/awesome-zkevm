@@ -108,9 +108,9 @@ zkEVM is a Fully EVM compatible and zk friendly virtual machine.
 
 * [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design.
 
-* [zkEVM-document](https://appliedzkp.github.io/zkevm-docs/) - appliedzkp zkEVM (Community Edition) Documentation.
+* [zkEVM-document](https://appliedzkp.github.io/zkevm-docs/) - zkEVM (Community Edition) Documentation.
 
-* [zkEVM-chain](https://github.com/appliedzkp/zkevm-chain) - appliedzkp L1 contract.
+* [zkEVM-chain](https://github.com/appliedzkp/zkevm-chain) - appliedzkp(PSE) L1 contract.
 
 ### zkSync
 
