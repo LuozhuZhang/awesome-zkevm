@@ -141,7 +141,7 @@ zkEVM is a Fully EVM compatible and zk friendly virtual machine.
 
 #### Native zkEVM
 
-* [Appliedzkp(PSE)](https://github.com/appliedzkp)
+* [PSE (formerly appliedzkp)](https://github.com/privacy-scaling-explorations)
 
 * [Scroll](https://scroll.io/)
 
