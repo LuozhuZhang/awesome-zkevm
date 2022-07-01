@@ -64,8 +64,6 @@ zkEVM is a Fully EVM compatible and zk friendly virtual machine.
 
 * [zkEVM Architecture](https://twitter.com/LuozhuZhang/status/1538166119785111552?s=20&t=o9hnHeP1na00u6gldaxnCw) - Scroll & EF zkEVM Architecture.
 
-* [An article to understand zkEVM, the key to Ethereum scaling](https://medium.com/degate/an-article-to-understand-zkevm-the-key-to-ethereum-scaling-ff0d83c417cc) - Articles recommended by the zksync community to understand zkevm.
-
 * [ZKVerse: Deep Dive Into Polygon Hermez 2.0](https://blog.polygon.technology/zkverse-deep-dive-into-polygon-hermez-2-0/) - Deep into zkEVM of polygon hermez.
 
 ### zk-hardware
@@ -91,10 +89,6 @@ zkEVM is a Fully EVM compatible and zk friendly virtual machine.
 #### Halo2
 
 * [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
-
-* [Sin7Y, Halo Principle Explained](https://sin7y.org/halo-principle-explained-fa5a2e2767cd)
-
-* [Sin7Y, Sin7Y Tech Review: Develop Circuits Using Halo 2](https://sin7y.org/sin7y-tech-review-develop-circuits-using-halo-2-829e2f26856)
 
 ## Resources - libraries, tools
 
