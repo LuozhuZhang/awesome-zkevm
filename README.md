@@ -136,7 +136,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ## Different Solutions
 
-#### Native zkEVM
+### Native zkEVM
 
 * [PSE (formerly appliedzkp)](https://github.com/privacy-scaling-explorations)
 
@@ -144,17 +144,17 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 * [Polygon Hermez](https://docs.hermez.io/zkEVM/overview/)
 
-#### Compiler-Based zkEVM
+### Compiler-Based zkEVM
 
 * [zkSync v2](https://blog.matter-labs.io/zksync-2-0-public-testnet-is-live-de870ba9632a)
 
-#### Transpiler-Based zkEVM
+### Transpiler-Based zkEVM
 
 * [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
 
 * [Miden](https://github.com/maticnetwork/miden)
 
-#### Other
+### Other
 
 * [Consensys](https://ethresear.ch/t/a-zk-evm-specification/11549)
 
