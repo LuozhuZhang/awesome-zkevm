@@ -41,6 +41,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
     - [StarkWare](#starkware)
     - [Zero-Knowledge-Proofs](#zero-knowledge-proofs-1)
     - [Halo2](#halo2-1)
+    - [zkp Acceleration](#zkp-Acceleration-1)
   - [Different Solutions](#different-solutions)
       - [Native zkEVM](#native-zkevm)
       - [Compiler-Based zkEVM](#compiler-based-zkevm)
