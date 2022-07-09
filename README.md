@@ -66,6 +66,8 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 * [ZKVerse: Deep Dive Into Polygon Hermez 2.0](https://blog.polygon.technology/zkverse-deep-dive-into-polygon-hermez-2-0/) - Deep into zkEVM of polygon hermez.
 
+* [zkEVM circuit arithmetization](https://www.youtube.com/watch?v=DT8g3veR17k&t=910s) - zkEVM circuits and EVM circuit, yezhang.
+
 ### zk-hardware
 
 * [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware) - Hardware for ZKPs.
