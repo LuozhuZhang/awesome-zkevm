@@ -132,6 +132,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 * [Halo2 document](https://zcash.github.io/halo2/)
 
+* [Halo2 for PSE and Scroll](https://github.com/privacy-scaling-explorations/halo2)
 
 ## Different Solutions
 
