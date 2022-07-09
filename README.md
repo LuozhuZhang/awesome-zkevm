@@ -134,6 +134,12 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 * [Halo2 for PSE and Scroll](https://github.com/privacy-scaling-explorations/halo2)
 
+### zkp Acceleration
+
+* [supranational](https://github.com/supranational)
+
+* [supranational - sppark](https://github.com/supranational/sppark)
+
 ## Different Solutions
 
 ### Native zkEVM
