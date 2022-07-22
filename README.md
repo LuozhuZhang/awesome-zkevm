@@ -59,7 +59,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 * [How Zk-Rollups Work](https://medium.com/fcats-blockchain-incubator/how-zk-rollups-work-8ac4d7155b0e) - How barry whiteHat's rollup works.
 
-### PSE & Scroll zkEVM
+### zkEVM
 
 * [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt) - Scroll zkEVM.
 
@@ -68,10 +68,6 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 * [ZKVerse: Deep Dive Into Polygon Hermez 2.0](https://blog.polygon.technology/zkverse-deep-dive-into-polygon-hermez-2-0/) - Deep into zkEVM of polygon hermez.
 
 * [zkEVM circuit arithmetization](https://www.youtube.com/watch?v=DT8g3veR17k&t=910s) - zkEVM circuits and EVM circuit, yezhang.
-
-### Hermez zkEVM
-
-* [Hermez Github](https://github.com/orgs/hermeznetwork/repositories)
 
 ### zk-hardware
 
@@ -114,6 +110,10 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 * [zkEVM-document](https://appliedzkp.github.io/zkevm-docs/) - zkEVM (Community Edition) Documentation.
 
 * [zkEVM-chain](https://github.com/appliedzkp/zkevm-chain) - appliedzkp(PSE) L1 contract.
+
+### Hermez
+
+* [Hermez Github](https://github.com/orgs/hermeznetwork/repositories)
 
 ### zkSync
 
