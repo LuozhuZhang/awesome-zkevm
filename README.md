@@ -24,7 +24,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ## Contents
 
-- [Awesome zkEVM](#awesome-zkevm-)
+- [Awesome zkEVM ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-zkevm-)
   - [Contents](#contents)
   - [Article - Video](#article---video)
     - [Rollup](#rollup)
@@ -37,16 +37,17 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
   - [Resources - libraries, tools](#resources---libraries-tools)
     - [Early Rollup](#early-rollup)
     - [Scroll and Appliedzkp(PSE)](#scroll-and-appliedzkppse)
+    - [Hermez](#hermez)
     - [zkSync](#zksync)
     - [StarkWare](#starkware)
     - [Zero-Knowledge-Proofs](#zero-knowledge-proofs-1)
     - [Halo2](#halo2-1)
     - [zkp Acceleration](#zkp-acceleration)
   - [Different Solutions](#different-solutions)
-      - [Native zkEVM](#native-zkevm)
-      - [Compiler-Based zkEVM](#compiler-based-zkevm)
-      - [Transpiler-Based zkEVM](#transpiler-based-zkevm)
-      - [Other](#other)
+    - [Native zkEVM](#native-zkevm)
+    - [Compiler-Based zkEVM](#compiler-based-zkevm)
+    - [Transpiler-Based zkEVM](#transpiler-based-zkevm)
+    - [Other](#other)
 - [Contributing](#contributing)
 
 ## Article - Video
