@@ -37,7 +37,8 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
   - [Resources - libraries, tools](#resources---libraries-tools)
     - [Early Rollup](#early-rollup)
     - [Scroll and Appliedzkp(PSE)](#scroll-and-appliedzkppse)
-    - [Hermez](#hermez)
+    - [Polygon Hermez](#polygon-hermez)
+    - [Polygon Zero](#polygon-zero)
     - [zkSync](#zksync)
     - [StarkWare](#starkware)
     - [Zero-Knowledge-Proofs](#zero-knowledge-proofs-1)
@@ -112,9 +113,13 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 * [zkEVM-chain](https://github.com/appliedzkp/zkevm-chain) - appliedzkp(PSE) L1 contract.
 
-### Hermez
+### Polygon Hermez
 
-* [Hermez Github](https://github.com/orgs/hermeznetwork/repositories)
+* [Polygon Hermez](https://github.com/0xPolygonHermez/zkevm-doc)
+
+### Polygon Zero
+
+* [Plonky2](https://github.com/mir-protocol/plonky2)
 
 ### zkSync
 
@@ -127,6 +132,8 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### StarkWare
 
 * [Awesome-starknet](https://github.com/gakonst/awesome-starknet) - A curated list of starkNet resources.
+
+* [Warp:transpile solidity to cairo](https://github.com/NethermindEth/warp)
 
 ### Zero-Knowledge-Proofs 
 
@@ -155,6 +162,8 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 * [Scroll](https://scroll.io/)
 
 * [Polygon Hermez](https://docs.hermez.io/zkEVM/Basic-Concepts/introduction/)
+
+* [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
 
 ### Compiler-Based zkEVM
 
