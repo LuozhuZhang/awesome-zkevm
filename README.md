@@ -56,20 +56,16 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Rollup
 
 * [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html) - vitalik, Introducing Rollup.
-
 * [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698) - vitalik, rollup-centric ethereum roadmap.
-
 * [How Zk-Rollups Work](https://medium.com/fcats-blockchain-incubator/how-zk-rollups-work-8ac4d7155b0e) - How barry whiteHat's rollup works.
 
 ### zkEVM
 
 * [zkEVM](https://hackmd.io/@yezhang/S1_KMMbGt) - Scroll zkEVM.
-
 * [zkEVM Architecture](https://twitter.com/LuozhuZhang/status/1538166119785111552?s=20&t=o9hnHeP1na00u6gldaxnCw) - Scroll & EF zkEVM Architecture.
-
 * [ZKVerse: Deep Dive Into Polygon Hermez 2.0](https://blog.polygon.technology/zkverse-deep-dive-into-polygon-hermez-2-0/) - Deep into zkEVM of polygon hermez.
-
 * [zkEVM circuit arithmetization](https://www.youtube.com/watch?v=DT8g3veR17k&t=910s) - zkEVM circuits and EVM circuit, yezhang.
+* [The different types of ZK-EVMs](https://vitalik.ca/general/2022/08/04/zkevm.html)
 
 ### zk-hardware
 
@@ -80,15 +76,12 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 #### zk-SNARK
 
 * [Introduction to zk-SNARKs with Examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - Get started to learn zk-SNARK by example.
-
 * [Why and How zk-SNARK Works](https://medium.com/@imolfar/why-and-how-zk-snark-works-1-introduction-the-medium-of-a-proof-d946e931160) - In-depth SNARK mechanism and understanding.
 
 #### Plonk
 
 * [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
-
 * [ZK Study Club - Plonk with Zac Williamson](https://www.youtube.com/watch?v=NqrVcDuQ8hM)
-
 * [Multiset checks in PLONK and Plookup](https://hackmd.io/@arielg/ByFgSDA7D)
 
 #### Halo2
@@ -100,17 +93,13 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Early Rollup
 
 * [idn3 rollup](https://github.com/iden3/rollup) - iden3 rollup implement.
-
 * [barryWhiteHat rollup](https://github.com/barryWhiteHat/roll_up) - First rollup implemented by [barryWhiteHat](https://github.com/barryWhiteHat).
 
 ### Scroll and Appliedzkp(PSE)
 
 * [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement.
-
 * [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design.
-
 * [zkEVM-document](https://appliedzkp.github.io/zkevm-docs/) - zkEVM (Community Edition) Documentation.
-
 * [zkEVM-chain](https://github.com/appliedzkp/zkevm-chain) - appliedzkp(PSE) L1 contract.
 
 ### Polygon Hermez
@@ -124,15 +113,12 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### zkSync
 
 * [zksync v1](https://github.com/matter-labs/zksync) - zksync v1 source code.
-
 * [compiler-solidity](https://github.com/matter-labs/compiler-solidity) - zkSync v2 compiler.
-
 * [zksync v2 portal](https://portal.zksync.io/) - zksync v2 faucet, Goerli network.
 
 ### StarkWare
 
 * [Awesome-starknet](https://github.com/gakonst/awesome-starknet) - A curated list of starkNet resources.
-
 * [Warp:transpile solidity to cairo](https://github.com/NethermindEth/warp)
 
 ### Zero-Knowledge-Proofs 
@@ -142,15 +128,12 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Halo2
 
 * [Halo2 repo](https://github.com/zcash/halo2)
-
 * [Halo2 document](https://zcash.github.io/halo2/)
-
 * [Halo2 for PSE and Scroll](https://github.com/privacy-scaling-explorations/halo2)
 
 ### zkp Acceleration
 
 * [supranational](https://github.com/supranational)
-
 * [supranational - sppark](https://github.com/supranational/sppark)
 
 ## Different Solutions
@@ -158,11 +141,8 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Native zkEVM
 
 * [PSE (formerly appliedzkp)](https://github.com/privacy-scaling-explorations)
-
 * [Scroll](https://scroll.io/)
-
 * [Polygon Hermez](https://docs.hermez.io/zkEVM/Basic-Concepts/introduction/)
-
 * [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
 
 ### Compiler-Based zkEVM
@@ -172,7 +152,6 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 ### Transpiler-Based zkEVM
 
 * [StarkNet](https://medium.com/starkware/starknet-alpha-2-4aa116f0ecfc)
-
 * [Miden](https://github.com/maticnetwork/miden)
 
 ### Other
