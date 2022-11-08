@@ -97,14 +97,15 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Scroll and Appliedzkp(PSE)
 
-* [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits) - zkEVM circuit implement.
-* [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs) - zkEVM design.
-* [zkEVM-document](https://appliedzkp.github.io/zkevm-docs/) - zkEVM (Community Edition) Documentation.
-* [zkEVM-chain](https://github.com/appliedzkp/zkevm-chain) - appliedzkp(PSE) L1 contract.
+* [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs)
+* [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits)
+* [zkEVM-document](https://appliedzkp.github.io/zkevm-docs/)
+* [Scroll's architecture](https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k)
 
 ### Polygon Hermez
 
-* [Polygon Hermez ](https://github.com/0xPolygonHermez/zkevm-prover)
+* [Polygon Hermez zkEVM](https://github.com/0xPolygonHermez/zkevm-prover)
+* [Hermez document](https://docs.hermez.io/zkEVM/Overview/Overview/)
 
 ### Polygon Zero
 
@@ -156,7 +157,8 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Other
 
-* [Consensys](https://ethresear.ch/t/a-zk-evm-specification/11549)
+* [Consensys zkEVM](https://ethresear.ch/t/a-zk-evm-specification/11549)
+* [Consensys zkEVM 2.0](https://ethresear.ch/t/a-zk-evm-specification-part-2/13903)
 
 # Contributing
 
