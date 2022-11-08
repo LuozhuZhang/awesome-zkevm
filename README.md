@@ -104,7 +104,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Polygon Hermez
 
-* [Polygon Hermez](https://github.com/0xPolygonHermez/zkevm-doc)
+* [Polygon Hermez ](https://github.com/0xPolygonHermez/zkevm-prover)
 
 ### Polygon Zero
 
