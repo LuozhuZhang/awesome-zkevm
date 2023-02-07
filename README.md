@@ -97,9 +97,9 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Scroll and Appliedzkp(PSE)
 
-* [zkEVM-spec](https://github.com/appliedzkp/zkevm-specs)
-* [zkEVM-circuit](https://github.com/appliedzkp/zkevm-circuits)
-* [zkEVM-document](https://appliedzkp.github.io/zkevm-docs/)
+* [zkEVM-spec](https://github.com/privacy-scaling-explorations/zkevm-specs)
+* [zkEVM-circuit](https://github.com/privacy-scaling-explorations/zkevm-circuits)
+* [zkEVM-document](https://privacy-scaling-explorations.github.io/zkevm-docs/)
 * [Scroll's architecture](https://scroll.mirror.xyz/nDAbJbSIJdQIWqp9kn8J0MVS4s6pYBwHmK7keidQs-k)
 
 ### Polygon Hermez
