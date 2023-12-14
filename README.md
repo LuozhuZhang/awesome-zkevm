@@ -44,6 +44,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
     - [Zero-Knowledge-Proofs](#zero-knowledge-proofs-1)
     - [Halo2](#halo2-1)
     - [zkp Acceleration](#zkp-acceleration)
+    - [zkEVM Applications](#zkevm-applications)
   - [Different Solutions](#different-solutions)
     - [Native zkEVM](#native-zkevm)
     - [Compiler-Based zkEVM](#compiler-based-zkevm)
@@ -136,6 +137,11 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 * [supranational](https://github.com/supranational)
 * [supranational - sppark](https://github.com/supranational/sppark)
+
+### zkEVM Applications
+
+* [light-client](https://github.com/privacy-scaling-explorations/zkevm-circuits/tree/main/light-client-poc)
+* [proof-of-exploit](https://github.com/zemse/proof-of-exploit) - Uses PSE/zkEVM to prove knowledge of smart contract vulnerabilities
 
 ## Different Solutions
 
