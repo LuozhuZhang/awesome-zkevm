@@ -145,6 +145,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 * [Scroll](https://scroll.io/)
 * [Polygon Hermez](https://docs.hermez.io/zkEVM/Basic-Concepts/introduction/)
 * [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
+* [Taiko](https://taiko.xyz/)
 
 ### Compiler-Based zkEVM
 
