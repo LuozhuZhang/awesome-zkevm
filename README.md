@@ -137,6 +137,10 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 * [supranational](https://github.com/supranational)
 * [supranational - sppark](https://github.com/supranational/sppark)
 
+## Benchmarks
+
+* [OpenChainBench](https://openchainbench.com) - Live benchmarks for zkEVM chain performance: RPC latency, block time, and L1 finality across zkSync Era, Scroll, Polygon zkEVM, and Starknet.
+
 ## Different Solutions
 
 ### Native zkEVM
