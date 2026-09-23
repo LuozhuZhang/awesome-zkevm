@@ -56,7 +56,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 ### Rollup
 
-* [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html) - vitalik, Introducing Rollup.
+* [An Incomplete Guide to Rollups](https://vitalik.eth.limo/general/2021/01/05/rollup.html) - vitalik, Introducing Rollup.
 * [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698) - vitalik, rollup-centric ethereum roadmap.
 * [How Zk-Rollups Work](https://medium.com/fcats-blockchain-incubator/how-zk-rollups-work-8ac4d7155b0e) - How barry whiteHat's rollup works.
 
@@ -66,7 +66,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 * [zkEVM Architecture](https://twitter.com/LuozhuZhang/status/1538166119785111552?s=20&t=o9hnHeP1na00u6gldaxnCw) - Scroll & EF zkEVM Architecture.
 * [ZKVerse: Deep Dive Into Polygon Hermez 2.0](https://blog.polygon.technology/zkverse-deep-dive-into-polygon-hermez-2-0/) - Deep into zkEVM of polygon hermez.
 * [zkEVM circuit arithmetization](https://www.youtube.com/watch?v=DT8g3veR17k&t=910s) - zkEVM circuits and EVM circuit, yezhang.
-* [The different types of ZK-EVMs](https://vitalik.ca/general/2022/08/04/zkevm.html)
+* [The different types of ZK-EVMs](https://vitalik.eth.limo/general/2022/08/04/zkevm.html)
 
 ### zk-hardware
 
@@ -81,13 +81,13 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 #### Plonk
 
-* [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
+* [Understanding PLONK](https://vitalik.eth.limo/general/2019/09/22/plonk.html)
 * [ZK Study Club - Plonk with Zac Williamson](https://www.youtube.com/watch?v=NqrVcDuQ8hM)
 * [Multiset checks in PLONK and Plookup](https://hackmd.io/@arielg/ByFgSDA7D)
 
 #### Halo2
 
-* [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.ca/general/2021/11/05/halo.html)
+* [Halo and more: exploring incremental verification and SNARKs without pairings](https://vitalik.eth.limo/general/2021/11/05/halo.html)
 
 ## Resources - libraries, tools
 
@@ -142,6 +142,9 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 
 * [light-client](https://github.com/privacy-scaling-explorations/zkevm-circuits/tree/main/light-client-poc)
 * [proof-of-exploit](https://github.com/zemse/proof-of-exploit) - Uses PSE/zkEVM to prove knowledge of smart contract vulnerabilities
+## Benchmarks
+
+* [OpenChainBench](https://openchainbench.com) - Live benchmarks for zkEVM chain performance: RPC latency, block time, and L1 finality across zkSync Era, Scroll, Polygon zkEVM, and Starknet.
 
 ## Different Solutions
 
@@ -151,6 +154,7 @@ zkEVM is a Fully EVM equivalent and zk friendly virtual machine.
 * [Scroll](https://scroll.io/)
 * [Polygon Hermez](https://docs.hermez.io/zkEVM/Basic-Concepts/introduction/)
 * [Polygon Zero](https://polygon.technology/solutions/polygon-zero/)
+* [Taiko](https://taiko.xyz/)
 
 ### Compiler-Based zkEVM
 
